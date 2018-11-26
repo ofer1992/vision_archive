@@ -1,0 +1,17 @@
+BECAUSE OF SIZE LIMITATION OF MOODLE, RESOURCES(VIDEO, DNN...) ARE ONLY ON
+GIT:
+https://github.com/ofer1992/vision_archive
+
+The three demoes showed in the presentation:
+- project/app1.py
+- project/app2.py
+- project/app3.py
+
+simply run with python.
+
+written in python2.7
+dependencies:
+opencv
+numpy
+matplotlib
+tensorflow
